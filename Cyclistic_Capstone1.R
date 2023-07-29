@@ -13,8 +13,6 @@ library(tidyr)
 library(dplyr)
 library(ggplot2)
 
-#Creating directory for my folder destination
-setwd('E:/The Journey/Career/Data Science/Master and Courses/Courses/Google Data Analytics/Case Studies/Case Study 1_BikeShare/Dataset/Cyclistic_Monthly_Tripdata')
 
 #Importing & naming the datasets| name = read_csv("file_name")
 Jan2021= read_csv("CyclisticTripdata202101.csv")
